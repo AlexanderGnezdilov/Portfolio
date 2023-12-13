@@ -1,6 +1,6 @@
 # Гнездилов Александр, 22 года
 
-<image src="https://thypix.com/wp-content/uploads/sad-cat-10.jpg" alt="Хотел тут быть я, но для учебы пусть будет киска!">
+![Хотел тут быть я, но для учебы пусть будет киска!](https://thypix.com/wp-content/uploads/sad-cat-10.jpg)
 
 ## Три факта обо мне
 
